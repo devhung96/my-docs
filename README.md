@@ -23,3 +23,9 @@ $ yarn build
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Deployment
+1. Selft hosting with an HTTP server use: Ngĩn or Apache2
+2. Jamstack provider: Netlify, Vercel, Github Pages.
+3. Choose Deploying to GitHub Pages:
+```
+
+```

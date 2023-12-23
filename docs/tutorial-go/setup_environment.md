@@ -14,5 +14,9 @@ keywords: [golang]
 ```
 ![Run first code](/img/image.png)
 
-# Extension support Go
+## Extension support Go
 ![Go extention](/img/extenstion.png)
+
+## Editor write doc online
+- https://holocron.so
+- Support markdow vscode extenstion: Markdown All in One
