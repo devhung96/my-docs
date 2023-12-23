@@ -6,13 +6,18 @@ keywords: [golang]
 ---
 
 # Setup Environment
+
 1. Dowload file install: https://go.dev/dl/
 2. Install như bình thường.
 3. Run code first
+
 ```
     go run main.go
 ```
+
 ![Run first code](/img/image.png)
 
 # Extension support Go
+
 ![Go extention](/img/extenstion.png)
+
