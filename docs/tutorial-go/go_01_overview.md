@@ -14,10 +14,11 @@ Go là một ngôn ngữ lập trình mã nguồn mở được phát triển b�
 - **Sử dụng rộng rãi:** Được phát triển web, hệ thống phân tán, công cụ DevOps. Được dùng trong các dự án lớn như Docker, Kubernetes và ngay cả trong một số phần của hạ tầng Google.
 
 ## Tài liệu tham khảo:
-- [Document]([https://](https://go.dev/doc))
+- [Document](https://go.dev/doc)
 - https://codetoanbug.com/toi-da-hoc-golang-nhu-the-nao/
 - https://anhlamweb.com/bai-viet-66/hoc-golang-tu-con-so-0-phan-2-cac-thanh-phan-co-ban-trong-go
 - https://200lab.io/blog/golang-la-gi/
+- https://www.youtube.com/watch?v=KmJ-Phn49jA&list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k&index=5
 ## Lộ trình tự học Go
 1. Tìm hiểu basic
    - https://go.dev/tour/
@@ -32,3 +33,6 @@ Go là một ngôn ngữ lập trình mã nguồn mở được phát triển b�
    -  https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API
    -  ....
  
+## Các topic cần tìm hiểu thêm:
+1. [23 Classic Design Pattern with Golang: Giới thiệu series]([https://](https://200lab.io/blog/series-23-classic-design-pattern/))
+2. [Golang Environment Variable: Biến môi trường trong Golang]([https://](https://200lab.io/blog/golang-environment-variable-bien-moi-truong-trong-golang/))

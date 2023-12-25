@@ -21,7 +21,15 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Golang - basic",
-      items: ["tutorial-go/overview", "tutorial-go/setup_environment"],
+      items: [
+        "tutorial-go/go_01_overview",
+        "tutorial-go/go_02_setup_environment",
+        "tutorial-go/go_03_variable_data_type",
+        "tutorial-go/go_05_Function",
+        "tutorial-go/go_06_Class_Method_Interface",
+        "tutorial-go/go_07_Concurrentcy",
+        "tutorial-go/go_08_Dependency",
+      ],
     },
   ],
 };
